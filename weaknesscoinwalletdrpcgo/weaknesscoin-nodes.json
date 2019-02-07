@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "name": "Official Node №2",
+      "url": "node1.weakness-coin.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Official Node №2",
+      "url": "node2.weakness-coin.com",
+      "port": 11898,
+      "ssl": false
+    }
+  ]
+}
